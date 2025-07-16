@@ -1,5 +1,3 @@
-Absolutely, Bondhu! Here's a complete, professional **`README.md`** file for your **Iris Classification App** built with Streamlit. It's GitHub-ready and well-documented.
-
 ---
 
 ## 📄 `README.md`
@@ -33,21 +31,16 @@ This Streamlit app allows users to interactively explore and classify **Iris flo
 
 ## 🛠️ Installation
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/iris-streamlit-app.git
-cd iris-streamlit-app
-````
 
-### 2. Create a virtual environment (optional but recommended)
+### 1. Create a virtual environment (optional but recommended)
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### 3. Install the required packages
+### 2. Install the required packages
 
 ```bash
 pip install -r requirements.txt
